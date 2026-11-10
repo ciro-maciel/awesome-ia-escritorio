@@ -1,0 +1,243 @@
+{
+    "slug": "awesome-ia-escritorio",
+    "campaign": "awesome-ia-escritorio",
+    "linkPrefix": "iaesc",
+    "title": "Awesome IA no escritório",
+    "description": "IA para secretárias, assistentes e auxiliares administrativos: assistentes, privacidade, redação oficial e golpes que chegam por e-mail.",
+    "intro": "Para quem trabalha no administrativo e quer usar IA no e-mail, na ata e no documento sem expor a empresa. Junta os assistentes, os controles de privacidade, o padrão da redação oficial e os alertas contra golpes que chegam ao escritório.",
+    "glossary": "ChatGPT, Claude, Gemini, Copilot, Meta AI, WhatsApp, LGPD, ANPD, CERT.br, OAB, CNJ, STF, CFC, Receita Federal, eSocial, Simples Nacional, MEI, BNCC, LDB, ECA, CLT, INSS, Febraban, Gupy, CIEE, Sine and O Novo Básico are proper names; keep them.",
+    "categories": [
+        {
+            "id": "assistentes",
+            "title": "Assistentes de IA",
+            "description": "Os mais usados, em ordem alfabética. A ordem não é recomendação.",
+            "items": [
+                {
+                    "name": "ChatGPT",
+                    "url": "https://chatgpt.com/",
+                    "description": "O assistente da OpenAI, com plano grátis e pagos.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Claude",
+                    "url": "https://claude.ai/",
+                    "description": "O assistente da Anthropic, com plano grátis e pagos.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Copilot",
+                    "url": "https://copilot.microsoft.com/",
+                    "description": "O assistente da Microsoft, também dentro do Windows e do Office.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Gemini",
+                    "url": "https://gemini.google.com/",
+                    "description": "O assistente do Google, também dentro do Gmail e do Google Docs.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "privacidade",
+            "title": "Privacidade nas IAs",
+            "description": "Onde desligar o uso das suas conversas para treinar o modelo.",
+            "items": [
+                {
+                    "name": "Anthropic: onde mudar o treino",
+                    "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+                    "description": "Como impedir que as suas conversas no Claude sejam usadas para treinar o modelo.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Google: atividade do Gemini",
+                    "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+                    "description": "Como desligar o histórico de atividade do Gemini e o que muda com isso.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Microsoft: controles de privacidade do Copilot",
+                    "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+                    "description": "Onde ficam os controles de privacidade e de treino do Copilot.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "OpenAI: controles de dados",
+                    "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+                    "description": "Como impedir que as conversas no ChatGPT sejam usadas para treinar o modelo.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "WhatsApp: privacidade",
+                    "url": "https://www.whatsapp.com/privacyquestions",
+                    "description": "O que o WhatsApp diz sobre privacidade, inclusive quando se conversa com a Meta AI.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "redacao",
+            "title": "Redação e documentos",
+            "description": "O padrão que vale quando o documento é formal.",
+            "items": [
+                {
+                    "name": "CBO, busca por código",
+                    "url": "https://cbo.mte.gov.br/cbosite/pages/pesquisas/BuscaPorCodigo.jsf",
+                    "description": "A Classificação Brasileira de Ocupações, para conferir a descrição de um cargo.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Manual de Redação da Presidência da República",
+                    "url": "https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica/manual-de-redacao.pdf",
+                    "description": "O manual oficial de redação, referência para ofício, memorando e comunicação formal.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "golpes",
+            "title": "Golpes que chegam ao escritório",
+            "description": "Boleto falso, troca de conta e e-mail de fornecedor que não é dele.",
+            "items": [
+                {
+                    "name": "CERT.br: fascículo golpes",
+                    "url": "https://cartilha.cert.br/fasciculos/golpes/fasciculo-golpes.pdf",
+                    "description": "O fascículo da Cartilha do CERT.br sobre golpes na internet.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "FBI IC3: fraude de e-mail corporativo",
+                    "url": "https://www.ic3.gov/CrimeInfo/BEC",
+                    "description": "Como funciona a fraude do e-mail de fornecedor ou de chefe, descrita pelo FBI.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Febraban: alertas de golpes",
+                    "url": "https://portal.febraban.org.br/noticia/4279/pt-br/",
+                    "description": "Os alertas da Febraban sobre golpes contra empresas e pessoas.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Ministério da Justiça: sofri um golpe",
+                    "url": "https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora",
+                    "description": "O que fazer depois de cair num golpe, segundo o Ministério da Justiça.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "protecao-de-dados",
+            "title": "Proteção de dados",
+            "description": "A lei e a autoridade que valem para os dados de clientes e alunos.",
+            "items": [
+                {
+                    "name": "LGPD",
+                    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+                    "description": "A Lei Geral de Proteção de Dados, no texto compilado do Planalto.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "ANPD",
+                    "url": "https://www.gov.br/anpd/pt-br",
+                    "description": "A Autoridade Nacional de Proteção de Dados, com guias e regulamentos da LGPD.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "livro",
+            "title": "Livro e kit",
+            "description": "O livro da série O Novo Básico para esta profissão.",
+            "items": [
+                {
+                    "name": "IA no escritório (livro)",
+                    "url": "https://ciromaciel.click/books/ia-no-escritorio",
+                    "description": "O volume 3 da série O Novo Básico, com as tarefas da profissão feitas com IA de verdade e cada fato com fonte.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA no escritório: o kit online",
+                    "url": "https://ciromaciel.click/books/ia-no-escritorio/kit",
+                    "description": "Os pedidos prontos, as listas do que conferir e as fontes do livro, abertos no site.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        }
+    ],
+    "topics": [
+        "escritorio",
+        "office",
+        "produtividade"
+    ]
+}
