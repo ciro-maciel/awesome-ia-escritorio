@@ -1,0 +1,266 @@
+{
+  "slug": "awesome-ia-escritorio",
+  "language": "zh",
+  "title": "Awesome IA no escritório",
+  "description": "面向秘书、助理和行政人员的 AI：助手、隐私、公文写作，以及通过电子邮件传来的诈骗。",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI助手",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaesc-chatgpt",
+          "description": "OpenAI的助手，提供免费版和付费版。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaesc-claude",
+          "description": "Anthropic的助手，提供免费版和付费版。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaesc-copilot",
+          "description": "微软的助手，也内置于Windows和Office中。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaesc-gemini",
+          "description": "谷歌的助手，也内置于Gmail和Google Docs中。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI中的隐私",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaesc-anthropic-onde-mudar-o-treino",
+          "description": "如何防止您在Claude中的对话被用于训练模型。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaesc-google-atividade-do-gemini",
+          "description": "如何关闭Gemini的活动记录，以及这样做会有什么变化。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaesc-microsoft-controles-de-privacidade",
+          "description": "Copilot的隐私和训练控制项在哪里。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaesc-openai-controles-de-dados",
+          "description": "如何防止ChatGPT中的对话被用于训练模型。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaesc-whatsapp-privacidade",
+          "description": "WhatsApp关于隐私的说明，包括与Meta AI对话时的情况。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "redacao",
+      "title": "写作和文档",
+      "items": [
+        {
+          "name": "CBO, busca por código",
+          "url": "https://cbo.mte.gov.br/cbosite/pages/pesquisas/BuscaPorCodigo.jsf",
+          "link": "https://go.mymarketing.click/iaesc-cbo-busca-por-codigo",
+          "description": "巴西职业分类目录，用于核对职位描述。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Manual de Redação da Presidência da República",
+          "url": "https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica/manual-de-redacao.pdf",
+          "link": "https://go.mymarketing.click/iaesc-manual-de-redacao-da-presidencia-d",
+          "description": "官方写作手册，是公函、备忘录和正式沟通的参考。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "找上门来的诈骗",
+      "items": [
+        {
+          "name": "CERT.br: fascículo golpes",
+          "url": "https://cartilha.cert.br/fasciculos/golpes/fasciculo-golpes.pdf",
+          "link": "https://go.mymarketing.click/iaesc-cert-br-fasciculo-golpes",
+          "description": "CERT.br《网络诈骗》小册子。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "FBI IC3: fraude de e-mail corporativo",
+          "url": "https://www.ic3.gov/CrimeInfo/BEC",
+          "link": "https://go.mymarketing.click/iaesc-fbi-ic3-fraude-de-e-mail-corporati",
+          "description": "FBI所描述的供应商或上级冒充欺诈的运作方式。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Febraban: alertas de golpes",
+          "url": "https://portal.febraban.org.br/noticia/4279/pt-br/",
+          "link": "https://go.mymarketing.click/iaesc-febraban-alertas-de-golpes",
+          "description": "Febraban关于针对企业和个人诈骗的警示。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Ministério da Justiça: sofri um golpe",
+          "url": "https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora",
+          "link": "https://go.mymarketing.click/iaesc-ministerio-da-justica-sofri-um-gol",
+          "description": "据司法部所述，上当受骗后应采取的措施。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "数据保护",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaesc-lgpd",
+          "description": "Planalto网站汇编的《通用数据保护法》全文。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaesc-anpd",
+          "description": "国家数据保护局，提供LGPD的指南和规章。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "书籍和套件",
+      "items": [
+        {
+          "name": "IA no escritório (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio",
+          "link": "https://go.mymarketing.click/iaesc-ia-no-escritorio-livro",
+          "description": "《O Novo Básico》系列第3卷，用AI真实完成该职业的任务，每项事实都附有来源。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no escritório: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio/kit",
+          "link": "https://go.mymarketing.click/iaesc-ia-no-escritorio-o-kit-online",
+          "description": "现成的请求模板、核对清单和书中的资料来源，在网站上开放查阅。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

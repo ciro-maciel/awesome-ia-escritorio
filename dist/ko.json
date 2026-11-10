@@ -1,0 +1,266 @@
+{
+  "slug": "awesome-ia-escritorio",
+  "language": "ko",
+  "title": "Awesome IA no escritório",
+  "description": "비서·보조·사무 담당자를 위한 AI: 어시스턴트, 개인정보, 공문서 작성, 이메일로 오는 사기.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI 어시스턴트",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaesc-chatgpt",
+          "description": "OpenAI의 어시스턴트로, 무료 및 유료 요금제가 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaesc-claude",
+          "description": "Anthropic의 어시스턴트로, 무료 및 유료 요금제가 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaesc-copilot",
+          "description": "Microsoft의 어시스턴트로, Windows와 Office 안에서도 쓸 수 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaesc-gemini",
+          "description": "Google의 어시스턴트로, Gmail과 Google Docs 안에서도 쓸 수 있습니다.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI 개인정보 보호",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaesc-anthropic-onde-mudar-o-treino",
+          "description": "Claude에서 나눈 대화가 모델 학습에 쓰이지 않도록 막는 방법.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaesc-google-atividade-do-gemini",
+          "description": "Gemini의 활동 기록을 끄는 방법과 그로 인해 달라지는 점.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaesc-microsoft-controles-de-privacidade",
+          "description": "Copilot의 개인정보 및 학습 관련 설정이 있는 곳.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaesc-openai-controles-de-dados",
+          "description": "ChatGPT에서 나눈 대화가 모델 학습에 쓰이지 않도록 막는 방법.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaesc-whatsapp-privacidade",
+          "description": "WhatsApp이 개인정보 보호에 대해 밝히는 내용, Meta AI와 대화할 때의 경우도 포함.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "redacao",
+      "title": "글쓰기 및 문서",
+      "items": [
+        {
+          "name": "CBO, busca por código",
+          "url": "https://cbo.mte.gov.br/cbosite/pages/pesquisas/BuscaPorCodigo.jsf",
+          "link": "https://go.mymarketing.click/iaesc-cbo-busca-por-codigo",
+          "description": "직업 설명을 확인할 때 쓰는 한국이 아닌 브라질의 공식 직업 분류, 즉 Classificação Brasileira de Ocupações.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Manual de Redação da Presidência da República",
+          "url": "https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica/manual-de-redacao.pdf",
+          "link": "https://go.mymarketing.click/iaesc-manual-de-redacao-da-presidencia-d",
+          "description": "공문, 메모, 공식 커뮤니케이션을 위한 참고용 공식 문서 작성 안내서.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "사무실에 찾아오는 사기",
+      "items": [
+        {
+          "name": "CERT.br: fascículo golpes",
+          "url": "https://cartilha.cert.br/fasciculos/golpes/fasciculo-golpes.pdf",
+          "link": "https://go.mymarketing.click/iaesc-cert-br-fasciculo-golpes",
+          "description": "CERT.br 안내서 중 인터넷 사기를 다룬 편.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "FBI IC3: fraude de e-mail corporativo",
+          "url": "https://www.ic3.gov/CrimeInfo/BEC",
+          "link": "https://go.mymarketing.click/iaesc-fbi-ic3-fraude-de-e-mail-corporati",
+          "description": "공급업체나 상사를 사칭하는 이메일 사기가 어떻게 이루어지는지 FBI가 설명한 내용.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Febraban: alertas de golpes",
+          "url": "https://portal.febraban.org.br/noticia/4279/pt-br/",
+          "link": "https://go.mymarketing.click/iaesc-febraban-alertas-de-golpes",
+          "description": "Febraban이 기업과 개인을 상대로 한 사기에 대해 내놓은 경고.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Ministério da Justiça: sofri um golpe",
+          "url": "https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora",
+          "link": "https://go.mymarketing.click/iaesc-ministerio-da-justica-sofri-um-gol",
+          "description": "사기를 당한 뒤 해야 할 일, 법무부 안내에 따름.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "개인정보 보호",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaesc-lgpd",
+          "description": "Planalto에서 정리한 개인정보 보호법(LGPD) 전문.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaesc-anpd",
+          "description": "LGPD에 따른 가이드와 규정을 제공하는 국가개인정보보호청(ANPD).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "도서 및 키트",
+      "items": [
+        {
+          "name": "IA no escritório (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio",
+          "link": "https://go.mymarketing.click/iaesc-ia-no-escritorio-livro",
+          "description": "O Novo Básico 시리즈 3권, 실제 AI로 직업 업무를 수행하고 모든 사실에 출처를 달았습니다.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no escritório: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio/kit",
+          "link": "https://go.mymarketing.click/iaesc-ia-no-escritorio-o-kit-online",
+          "description": "바로 쓸 수 있는 요청문, 점검 목록, 책의 출처를 사이트에서 열어 볼 수 있습니다.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

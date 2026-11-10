@@ -1,0 +1,266 @@
+{
+  "slug": "awesome-ia-escritorio",
+  "language": "de",
+  "title": "Awesome IA no escritório",
+  "description": "KI für Sekretariat, Assistenz und Verwaltungskräfte: Assistenten, Datenschutz, behördliche Schreibstandards und Betrugsmaschen per E-Mail.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "KI-Assistenten",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaesc-chatgpt",
+          "description": "Der Assistent von OpenAI, mit kostenlosem und kostenpflichtigen Tarifen.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaesc-claude",
+          "description": "Der Assistent von Anthropic, mit kostenlosem und kostenpflichtigen Tarifen.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaesc-copilot",
+          "description": "Der Assistent von Microsoft, auch in Windows und Office integriert.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaesc-gemini",
+          "description": "Der Assistent von Google, auch in Gmail und Google Docs integriert.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Datenschutz bei KI",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaesc-anthropic-onde-mudar-o-treino",
+          "description": "So verhinderst du, dass deine Unterhaltungen mit Claude zum Training des Modells verwendet werden.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaesc-google-atividade-do-gemini",
+          "description": "So schaltest du den Aktivitätsverlauf von Gemini aus und was sich dadurch ändert.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaesc-microsoft-controles-de-privacidade",
+          "description": "Wo die Datenschutz- und Trainingseinstellungen von Copilot zu finden sind.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaesc-openai-controles-de-dados",
+          "description": "So verhinderst du, dass Unterhaltungen mit ChatGPT zum Training des Modells verwendet werden.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaesc-whatsapp-privacidade",
+          "description": "Was WhatsApp zum Datenschutz sagt, auch wenn man mit Meta AI chattet.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "redacao",
+      "title": "Texte und Dokumente",
+      "items": [
+        {
+          "name": "CBO, busca por código",
+          "url": "https://cbo.mte.gov.br/cbosite/pages/pesquisas/BuscaPorCodigo.jsf",
+          "link": "https://go.mymarketing.click/iaesc-cbo-busca-por-codigo",
+          "description": "Die brasilianische Klassifikation der Berufe, um die Beschreibung einer Stelle zu prüfen.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Manual de Redação da Presidência da República",
+          "url": "https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica/manual-de-redacao.pdf",
+          "link": "https://go.mymarketing.click/iaesc-manual-de-redacao-da-presidencia-d",
+          "description": "Das offizielle Schreibhandbuch, Referenz für Schreiben, Memos und formelle Kommunikation.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "Betrug, der im Büro ankommt",
+      "items": [
+        {
+          "name": "CERT.br: fascículo golpes",
+          "url": "https://cartilha.cert.br/fasciculos/golpes/fasciculo-golpes.pdf",
+          "link": "https://go.mymarketing.click/iaesc-cert-br-fasciculo-golpes",
+          "description": "Das Heft der Cartilha do CERT.br zu Betrug im Internet.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "FBI IC3: fraude de e-mail corporativo",
+          "url": "https://www.ic3.gov/CrimeInfo/BEC",
+          "link": "https://go.mymarketing.click/iaesc-fbi-ic3-fraude-de-e-mail-corporati",
+          "description": "Wie der Betrug per E-Mail im Namen von Lieferanten oder Chefs funktioniert, laut FBI.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Febraban: alertas de golpes",
+          "url": "https://portal.febraban.org.br/noticia/4279/pt-br/",
+          "link": "https://go.mymarketing.click/iaesc-febraban-alertas-de-golpes",
+          "description": "Die Warnungen der Febraban zu Betrug gegen Unternehmen und Privatpersonen.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Ministério da Justiça: sofri um golpe",
+          "url": "https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora",
+          "link": "https://go.mymarketing.click/iaesc-ministerio-da-justica-sofri-um-gol",
+          "description": "Was man nach einem Betrug tun sollte, laut dem Justizministerium.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Datenschutz",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaesc-lgpd",
+          "description": "Das Allgemeine Datenschutzgesetz (LGPD) im kompilierten Text des Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaesc-anpd",
+          "description": "Die nationale Datenschutzbehörde ANPD, mit Leitfäden und Verordnungen zur LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Buch und Kit",
+      "items": [
+        {
+          "name": "IA no escritório (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio",
+          "link": "https://go.mymarketing.click/iaesc-ia-no-escritorio-livro",
+          "description": "Band 3 der Reihe O Novo Básico, mit den Aufgaben dieses Berufs, echt mit KI umgesetzt und jede Tatsache mit Quelle.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no escritório: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-escritorio/kit",
+          "link": "https://go.mymarketing.click/iaesc-ia-no-escritorio-o-kit-online",
+          "description": "Die fertigen Vorlagen, die Prüflisten und die Quellen des Buches, auf der Website geöffnet.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
